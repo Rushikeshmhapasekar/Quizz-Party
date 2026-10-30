@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063991509285",
+    "project_id": "quiz-party-11f16",
+    "storage_bucket": "quiz-party-11f16.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063991509285:android:8355d5fa02686fd6c09acc",
+        "android_client_info": {
+          "package_name": "com.example.quiz_party"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKbaFQc8kSg8ZKlnnNnyHRn8TWjdvh1fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
