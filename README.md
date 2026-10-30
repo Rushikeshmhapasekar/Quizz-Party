@@ -1,3 +1,7 @@
+
+# Published Site
+https://quiz-party-11f16.web.app/
+
 # Quiz Party (Flutter + Firebase)
 
 Host creates a quiz -> gets a 6-digit code -> players join, pick a character,
